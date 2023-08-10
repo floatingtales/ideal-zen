@@ -1,0 +1,19 @@
+{
+  "name": "zendesk-OpenAI",
+  "author": {
+    "name": "Test",
+    "email": "my@email.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": {
+        "url": "https://ideal-meme.vercel.app/",
+        "flexible": true
+      }
+    }
+  },
+  "version": "1.0.0",
+  "frameworkVersion": "2.0"
+}
